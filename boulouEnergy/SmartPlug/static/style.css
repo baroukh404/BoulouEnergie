@@ -1,0 +1,11 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	color: darkred;
+	size: 32px;
+}
+.container {
+	margin: 64px;
+	width: 200px;
+	height: 200px;
+}

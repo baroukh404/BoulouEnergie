@@ -1,0 +1,27 @@
+.navbar-toggler-icon {
+      background-color: #007bff; /* Change the background color of the user icon */
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  background-color: #9A616D; /* Change the background color of the footer */
+  text-align: center;
+}
+
+.online-icon {
+  color: green; /* Change the color for online status */
+}
+
+.offline-icon {
+  color: red; /* Change the color for offline status */
+}
+
+.scale-image {
+  height: auto;
+  transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+}
+
+.scale-image:hover {
+  transform: scale(0.8); /* Scale the image on hover */
+}
